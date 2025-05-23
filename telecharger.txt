@@ -1,12 +1,8 @@
-Je vous ai mis un .rar sur Discord, créer un dossier nommé "Data" et unzip tout dedans.
-
-
-Sinon
 Vous pouvez télécharger les datasets avec ces liens, ça vous redirige direct sur le téléchargement. 
 Pour Incendie ça prend du temps à charger la fenêtre c'est normal.
 https://inventaire-forestier.ign.fr/dataifn/data/export_dataifn_2005_2023.zip
 
-https://donneespubliques.meteofrance.fr/?fond=donnee_libre&prefixe=Txt%2FSynop%2FArchive%2Fsynop&extension=csv.gz&date=202505
+https://donneespubliques.meteofrance.fr/?fond=donnee_libre&prefixe=Txt%2FSynop%2FArchive%2Fsynop&extension=csv.gz&date=201501
 
 https://bdiff.agriculture.gouv.fr/incendies/zip
 
